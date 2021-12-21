@@ -1,11 +1,13 @@
-Wang Tilers
-===========
+Backtracking Wang Tiler
+=======================
 
-This repository contains descriptions and implementations of algorithms
-that generate [Wang titlings][].
+_Try it online_ [@ catseye.tc](https://catseye.tc/installation/Backtracking_Wang_Tiling)
+| _See also:_ [Kolakoski Kurve](https://catseye.tc/node/Kolakoski_Kurve)
 
-(In fact, it currently contains only one implementation of only one such
-algorithm, but it may, in the future, contain more.)
+- - - -
+
+This repository contains a description and implementation of an algorithm
+that generates [Wang tilings][].
 
 You can read the linked article for more information, but in brief, a
 Wang tiling is a tiling of the plane by a set of tiles which, by their
@@ -104,5 +106,5 @@ is only undecidable in general, and given a particular TM, we can sometimes
 prove that it does not halt.  But it does kind of place a practical limit on
 the number of tilings you could generate using this method.
 
-[Wang titlings]: http://en.wikipedia.org/wiki/Wang_tile
+[Wang tilings]: http://en.wikipedia.org/wiki/Wang_tile
 [yoob.js]: http://catseye.tc/node/yoob.js
