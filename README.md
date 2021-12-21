@@ -1,7 +1,7 @@
 Backtracking Wang Tiler
 =======================
 
-_Try it online_ [@ catseye.tc](https://catseye.tc/installation/Backtracking_Wang_Tiling)
+_Try it online_ [@ catseye.tc](https://catseye.tc/installation/Backtracking_Wang_Tiler)
 | _See also:_ [Kolakoski Kurve](https://catseye.tc/node/Kolakoski_Kurve)
 
 - - - -
