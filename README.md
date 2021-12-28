@@ -6,6 +6,8 @@ _Try it online_ [@ catseye.tc](https://catseye.tc/installation/Backtracking_Wang
 
 - - - -
 
+![Screenshot of Backtracking Wang Tiler in action](images/Backtracking_Wang_Tiler.jpg?raw=true)
+
 This repository contains a description and implementation of an algorithm
 that generates [Wang tilings][].
 
